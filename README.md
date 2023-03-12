@@ -1,6 +1,8 @@
 # Document Image Tamper Detection And Recovery
 
-## Code for this project cannot be disclosed at current stage due to ongoing research publications work and related confidentiality.
+## Code for this project cannot be disclosed due to research publication and related confidentiality.
+
+## Research paper can be found at: [Springer Link](https://link.springer.com/chapter/10.1007/978-981-19-2069-1_25)
 
 ### Below-Mentioned are samples of results from this project at 50% tamper:
 
